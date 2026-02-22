@@ -60,8 +60,6 @@ This project analyzes the **Index of Economic Freedom (2022)** across countries 
 
 ---
 
----
-
 ## 🚀 How to Run the Project
 1. Download **Tableau Desktop Public Edition**
 2. Open Tableau and connect to `index_of_economic_freedom.csv`
